@@ -17,7 +17,7 @@ con esto hecho entra un switch case con un caso para cada opcion de moneda y tem
 
 
 Solo yo poseo acceso al proyecto ya que todavia no entiendo muy bien como funciona git y tampoco conozco a nadie con quien colaborar lamentablemente debido a que no he tenido el tiempo para hacer el networking
-que deberia de tener.
+que deberia de tener si alguien lee este readme sigame y lo sigo devuelta.
 
 El proyecto fue hecho 100% con java usando el IDE de eclipse ya que al ver el challenge me fije en que la mayoria de los videos conocen cosas mas avanzadas que yo y hacerlo asi me hace sentir que soy honesto conmigo mismo de lo que se por lo que lo hice de la manera mas basica posible para mi y tambien eficiente ya que mi objetivo era que fuera un programa en bruto y que pudiese servir como una base facil de entender para alguien como yo que es lo que no encontre en los videos que busque.
 
